@@ -193,7 +193,7 @@ entity.setLocalRotation(rot);
 
 ## Credits
 
-Template by [Steve Bransford](https://github.com/terminusfilms) at [Emory Center for Digital Scholarship](https://ecds.emory.edu).
+Template by [Steve Bransford](https://github.com/terminusfilms).
 
 Based on the [Atlanta Space Machine](https://atlantaspacemachine.com) temporal viewer implementation.
 
