@@ -1,0 +1,29 @@
+{
+  "name": "splat-time-toggle-template",
+  "version": "1.0.0",
+  "description": "PlayCanvas template for time-toggle between aligned 3DGS splat captures",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "devDependencies": {
+    "playcanvas": "^2.1.0",
+    "vite": "^5.4.0"
+  },
+  "keywords": [
+    "3d-gaussian-splatting",
+    "playcanvas",
+    "time-toggle",
+    "temporal",
+    "splat",
+    "webgl"
+  ],
+  "license": "MIT",
+  "author": "Steve Bransford",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/terminusfilms/splat-time-toggle-template"
+  }
+}
