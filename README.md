@@ -2,9 +2,9 @@
 
 **PlayCanvas viewer for switching between aligned 3DGS temporal captures.**
 
-Toggle between two 3D Gaussian Splat scans of the same location captured at different times. Perfect for seasonal comparisons, construction progress, before/after documentation, and environmental change visualization.
+**[Live Demo →](https://landscapescan.com)** *(Mason Mill ruins, October vs December 2025)*
 
-<!-- TODO: Add screenshot/GIF showing time toggle in action -->
+Toggle between two 3D Gaussian Splat scans of the same location captured at different times. Perfect for seasonal comparisons, construction progress, before/after documentation, and environmental change visualization.
 
 ## Features
 
@@ -194,8 +194,6 @@ entity.setLocalRotation(rot);
 ## Credits
 
 Template by [Steve Bransford](https://github.com/terminusfilms).
-
-Based on the [Atlanta Space Machine](https://atlantaspacemachine.com) temporal viewer implementation.
 
 ## License
 
